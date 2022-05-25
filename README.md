@@ -11,7 +11,7 @@ MindMap |  Gantt Chart | Diagram | Code
 <img src="https://github.com/rzdev97/rzdev97/blob/master/images/skillmatrix.PNG" width="2850px"   />         | <img src="https://github.com/rzdev97/rzdev97/blob/master/images/skillmatrix.PNG" width="2850px"   />  | <img src="https://github.com/rzdev97/rzdev97/blob/master/images/skillmatrix.PNG" width="2850px"   />  | <img src="https://github.com/rzdev97/rzdev97/blob/master/images/skillmatrix.PNG" width="2850px"   />  |
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 Wireframe(WebApp) |  UI Design | WebApp Architecture | Variable Access
-<img src="https://github.com/rzdev97/rzdev97/blob/master/images/skillmatrix.PNG" width="2850px"   />         | <img src="https://github.com/rzdev97/rzdev97/blob/master/images/skillmatrix.PNG" width="2850px"   />  | <img src="https://github.com/rzdev97/rzdev97/blob/master/images/skillmatrix.PNG" width="2850px"   />  | <img src="https://github.com/rzdev97/rzdev97/blob/master/images/skillmatrix.PNG" width="2850px"   />  |
+<img src="https://raw.githubusercontent.com/rzdev97/DiagramTools/main/images/MobileWireframe.drawio.png" width="2850px"   />         | <img src="https://github.com/rzdev97/rzdev97/blob/master/images/skillmatrix.PNG" width="2850px"   />  | <img src="https://github.com/rzdev97/rzdev97/blob/master/images/skillmatrix.PNG" width="2850px"   />  | <img src="https://github.com/rzdev97/rzdev97/blob/master/images/skillmatrix.PNG" width="2850px"   />  |
 Wireframe(App) |  Wireframe(Web) | API Architecture | Testing Graph
 
 
